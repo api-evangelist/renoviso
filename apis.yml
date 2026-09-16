@@ -35,10 +35,10 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-09-15'
 x-status: defunct
-x-status-note: 'renoviso.com serves a cPanel suspended page (HTTP 200 -> /cgi-sys/suspendedpage.cgi)
-  as of 2026-07-20; company reported permanently closed. No API or developer surface found.'
+x-status-note: renoviso.com serves a cPanel suspended page (HTTP 200 -> /cgi-sys/suspendedpage.cgi) as
+  of 2026-07-20; company reported permanently closed. No API or developer surface found.
 tags:
 - Company
 - Consumer
@@ -48,6 +48,7 @@ tags:
 - Doors
 - Flooring
 - Boston
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
